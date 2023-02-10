@@ -2,6 +2,7 @@
 This is a Cooler system running on atmega 32 where the motor is turned on once the temprature is over 35 and there is a buzzer that confirms on temprature.
 There is also 2 seven segment and LCD that represents the temprature on it to ensure about the correct temprature.
 Here there is a picture of proteus file for the project.
+
 Details:
 1. Cooler, buzzer and LED will be on when temperature is more than 35C and off when less than 35C. 
 2. Temperature should be appeared on LCD first row and also in seven-seg.
